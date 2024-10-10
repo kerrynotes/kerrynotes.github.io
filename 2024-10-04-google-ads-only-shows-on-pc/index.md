@@ -1,13 +1,5 @@
----
-title: "Google Ads 如何设置只在电脑端展现广告"
-date: "2024-10-04"
-categories: 
-  - "notes"
-tags: 
-  - "affiliate"
-  - "google-ads"
-coverImage: "google-ads-only-shows-on-pc.webp"
----
+# Google Ads 如何设置只在电脑端展现广告"
+
 
 记录一下如何设置谷歌广告只在电脑端展现。记得以前 Google Ads 应该是创建广告的时候就可以选择的，现在改了，藏挺深，关键是我搜都没搜出来。问了 [ChatGPT](/tag/chatgpt)，给的答案也是过时的。
 
